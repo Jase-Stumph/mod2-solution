@@ -7,9 +7,12 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1 {
   margin-bottom: 15px;
+  text-align: center;
+  font-size: 175%;
 }
 
 p {
